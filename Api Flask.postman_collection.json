@@ -75,7 +75,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"id\": 3,\r\n    \"nombre\": \"Jean Pierre\",\r\n    \"email\": \"jeanpierre_actualizado@gmail.com\"\r\n}",
+					"raw": "{\r\n    \"id\": 3,\r\n    \"nombre\": \"dsaasd\",\r\n    \"email\": \"ffff@gmail.com\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
